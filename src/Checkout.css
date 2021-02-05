@@ -16,7 +16,7 @@
   border-bottom: 1px solid lightgray;
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 630px) {
   .checkout {
     flex-direction: column;
   }

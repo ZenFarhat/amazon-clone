@@ -35,7 +35,7 @@
   transform: scale(0.99);
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 630px) {
   .subtotal {
     width: 80%;
     margin: 0 auto;
